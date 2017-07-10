@@ -1,0 +1,37 @@
+body { 
+	margin:0;
+	padding:0;
+	perspective: 1px;
+	transform-style: preserve-3d;
+	height: 100%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+
+
+p {
+	font-family: 'Quando', serif;
+	font-size: 0.9em;
+	line-height: 2em;
+}
+
+/*.cont {
+	padding-left: 100px;
+	padding-right
+}*/
+
+.index_white h2 {
+	font-family: 'Roboto', sans-serif;
+	color: #d8944f;
+	font-weight: bold;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+	margin-left: 15px;
+}
+
+.index_white p {
+	color: #828282;
+	text-align: justify;
+    -moz-text-align-last: left; /* Code for Firefox */
+    text-align-last: left;
+}
